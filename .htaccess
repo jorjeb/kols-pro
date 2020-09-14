@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ /cgi-bin/get_KOLs_pro.cgi/$1 [L]

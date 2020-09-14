@@ -1,0 +1,6 @@
+Flask==0.10.1
+biopython==1.66
+python-igraph==0.7.1.post6
+py2neo==3
+neo4j-driver==1.0.0
+gearman==2.0.2
